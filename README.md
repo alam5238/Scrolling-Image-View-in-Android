@@ -32,7 +32,7 @@ allprojects {
     android:layout_height="match_parent"
     app:speed=".5dp"
     app:src="@drawable/bg"
-    >
+    />
     
  6. Copy your Image file and Past it in "res/drawable" folder. 
  7. "app:src="@drawable/bg"" this is linked to image. Here "bg" is the image file. That included in "res/drawable/bg.jpg" . 
