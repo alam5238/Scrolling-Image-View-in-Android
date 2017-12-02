@@ -4,9 +4,9 @@ Scrolling Image View in Android. Using it like Splash Screen, Games Intro Screen
 Step::
 1. Add Gradle in “build.gradle(Module:app)”.
 
-<code>
+```
     dependencies {
-//scrolling back ground
-compile 'com.github.Q42:AndroidScrollingImageView:1.2'
-}
-</code>
+            //scrolling back ground
+            compile 'com.github.Q42:AndroidScrollingImageView:1.2'
+    }
+```
