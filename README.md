@@ -48,3 +48,5 @@ allprojects {
 
 ***8. Run the Application and Enjoy!! :D***
 
+Follow on Web:
+http://bd.nas-tec.ml/blog/2017/11/29/hello-world/
